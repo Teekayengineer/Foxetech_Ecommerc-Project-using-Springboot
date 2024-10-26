@@ -1,0 +1,16 @@
+foxetech\com\ecommerce\model\Product.class
+foxetech\com\ecommerce\controller\OrderController.class
+foxetech\com\ecommerce\dto\OrderDTO.class
+foxetech\com\ecommerce\repository\UserRepository.class
+foxetech\com\ecommerce\service\ProductService.class
+foxetech\com\ecommerce\controller\ProductController.class
+foxetech\com\ecommerce\service\UserService.class
+foxetech\com\ecommerce\WebConfig.class
+foxetech\com\ecommerce\service\OrderService.class
+foxetech\com\ecommerce\model\Order.class
+foxetech\com\ecommerce\repository\ProductRepository.class
+foxetech\com\ecommerce\controller\UserController.class
+foxetech\com\ecommerce\EcommerceApplication.class
+foxetech\com\ecommerce\model\User.class
+foxetech\com\ecommerce\exception\OrderNotFoundException.class
+foxetech\com\ecommerce\repository\OrderRepository.class
